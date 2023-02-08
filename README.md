@@ -1,0 +1,1 @@
+Template for the natural numbers project in the University of Copenhagen "førsteårsprojekt" course.
